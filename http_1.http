@@ -1,0 +1,8 @@
+### Start WF
+POST http://localhost:3000/item
+
+### Update WF
+PUT http://localhost:3000/item
+
+### STOP WF
+DELETE http://localhost:3000/item
