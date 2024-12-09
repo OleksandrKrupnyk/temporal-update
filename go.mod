@@ -1,4 +1,4 @@
-module work-temporal-updates
+module temporal-updates
 
 go 1.23
 

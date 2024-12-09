@@ -12,7 +12,8 @@ import (
 	"go.temporal.io/api/enums/v1"
 	"go.temporal.io/api/serviceerror"
 	"go.temporal.io/sdk/client"
-	updates "work-temporal-updates"
+
+	updates "temporal-updates"
 )
 
 func main() {
